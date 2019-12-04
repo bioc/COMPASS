@@ -3,7 +3,7 @@ title: "How to use the SimpleCOMPASS Interface"
 author: "Greg Finak"
 date: "`r Sys.Date()`"
 output: 
-  BiocStyle::pdf_document
+  BiocStyle::html_document
 vignette: >
   %\VignetteIndexEntry{SimpleCOMPASS}
   %\VignetteEngine{knitr::rmarkdown}
